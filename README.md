@@ -1,6 +1,7 @@
 # dktc
 DKTC (Dataset of Korean Threatening Conversations)
 
+- [발표자료](https://docs.google.com/presentation/d/1dMSbtN-gsnPDMx2m3BzYkvb28-aQThjFsFiUhhXFWq4/edit?usp=sharing)
 
 ## data
 
